@@ -1,3 +1,13 @@
+<p align="center"><img alt="D 的个人博客" src="https://img.hacpai.com/avatar/1353745196354_1584267806213.jpeg?imageView2/1/w/256/h/256/interlace/0/q/100"></p><h2 align="center">
+D 的个人博客
+</h2>
+
+<h4 align="center">全职做开源，自由职业者</h4>
+<p align="center"><a title="D 的个人博客" target="_blank" href="https://github.com/88250/solo-blog"><img src="https://img.shields.io/github/last-commit/88250/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<a title="GitHub repo size in bytes" target="_blank" href="https://github.com/88250/solo-blog"><img src="https://img.shields.io/github/repo-size/88250/solo-blog.svg?style=flat-square"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-${soloVer}-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/88250/solo-blog.svg"></a></p>
+
 ### 最新
 
 * [Markdown 解析原理详解和 Markdown AST 描述](http://localhost:8080/articles/2020/04/23/1587637426085.html)
@@ -66,3 +76,7 @@
 * [关于解散所有 B3log 开源社区官方 QQ 群的公告](http://localhost:8080/articles/2018/05/17/1526517679116.html)
 * [链接熔炉设计](http://localhost:8080/articles/2016/09/07/1473238756829.html)
 * [敏感数据处理](http://localhost:8080/articles/2016/05/11/1462956775250.html)
+
+---
+
+本仓库通过 [Solo](https://github.com/88250/solo) 自动进行同步更新 ❤️ 
