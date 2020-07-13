@@ -72,10 +72,10 @@ D 的个人博客
 * [《提问的智慧》精读注解版](https://88250.b3log.org/articles/2018/09/08/1536377163156.html)
 * [EverBox（同步网盘）邀请](https://88250.b3log.org/everbox-invite.html)
 * [2016 一个想做架构师的码农](https://88250.b3log.org/articles/2016/12/30/1483027205828.html)
-* [关于我](https://88250.b3log.org/about)
 * [敏感数据处理](https://88250.b3log.org/articles/2016/05/11/1462956775250.html)
 * [关于解散所有 B3log 开源社区官方 QQ 群的公告](https://88250.b3log.org/articles/2018/05/17/1526517679116.html)
 * [链接熔炉设计](https://88250.b3log.org/articles/2016/09/07/1473238756829.html)
+* [关于我](https://88250.b3log.org/about)
 
 ---
 
