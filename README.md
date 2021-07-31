@@ -10,6 +10,7 @@ D 的个人博客
 
 ### 最新
 
+* [已经删除了所有 QQ 好友](https://88250.b3log.org/articles/2021/07/30/1627616202179.html)
 * [纯粹的 Markdown](https://88250.b3log.org/articles/2021/04/22/1619080345258.html)
 * [2020 但行好事莫问前程](https://88250.b3log.org/articles/2021/02/02/1612276940228.html)
 * [创业的第三个秋天](https://88250.b3log.org/articles/2020/11/12/1605011228596.html)
@@ -29,7 +30,6 @@ D 的个人博客
 * [Lute 实现后记](https://88250.b3log.org/articles/2019/08/29/1567062979327.html)
 * [CommonMark 规范要点解读](https://88250.b3log.org/articles/2019/08/27/1566893557720.html)
 * [我为什么要用中文写项目文档](https://88250.b3log.org/articles/2019/08/19/1566191673842.html)
-* [创业的第二个夏天](https://88250.b3log.org/articles/2019/08/09/1565318802920.html)
 
 
 
